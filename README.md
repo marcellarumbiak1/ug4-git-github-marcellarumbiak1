@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/3GeH72v6)
+
 # UG4-PrakTekom
 # UG-Git
 1. Buatlah sebuah file notepad dengan format nama yaitu MY_KIND_OF_CRAZY_NIM.txt. Isi file txt tersebut dengan teks di bawah ini
